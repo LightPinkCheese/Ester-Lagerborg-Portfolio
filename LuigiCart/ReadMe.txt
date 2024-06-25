@@ -1,0 +1,1 @@
+This was a solo assignment project of two weeks that I did. This was also the first project of Futuregames
