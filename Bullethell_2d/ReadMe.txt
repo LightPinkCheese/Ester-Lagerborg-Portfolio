@@ -1,0 +1,1 @@
+This was my graduation project of Futuregames that I worked solo on for 7 weeks in Unreal Engine, creating a 2D bullethell game, use WASD to move, Space to dash, Shift to switch weapons, mouse to aim and other buttons are on screen for different things.
